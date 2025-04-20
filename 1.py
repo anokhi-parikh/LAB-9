@@ -10,6 +10,6 @@ def q1():
             else:
                 pass
         return {"UpperCase":upperCase,"LowerCase":lowerCase}
-    s1="My Name iS RoniT"
+    s1="My Name iS AnOkhI"
     print(count_lower_upper(s1))
 q1()
